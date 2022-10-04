@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akijj004
 - 👀 I’m interested in Crypto
 - 🌱 I’m currently learning React/JavaScript
-- 💞️ I’m looking to collaborate on LUNC
 - 📫 How to reach me akijj004@gmail.com
 
 <!---
